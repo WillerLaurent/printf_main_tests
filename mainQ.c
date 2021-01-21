@@ -1,4 +1,6 @@
-#include "ft_printf.h"
+#include "../../Printfv1/ft_printf.h"
+#include <stdio.h>
+#include <limits.h>
 
 int main ()
 {
